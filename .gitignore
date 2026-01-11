@@ -49,3 +49,5 @@ scratch-vm/benchmark
 
 # Localization
 scratch-vm/translations
+
+publish.sh
