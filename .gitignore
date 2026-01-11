@@ -1,0 +1,52 @@
+# Mac OS
+.DS_Store
+scratch-gui/.DS_Store
+
+# NPM
+scratch-gui/node_modules
+scratch-gui/npm-*
+
+# Testing
+scratch-gui/.nyc_output
+sctrach-gui/coverage
+
+# Build
+scratch-gui/build
+scratch-gui/dist
+scratch-gui/.opt-in
+
+# Generated translation files
+scratch-gui/translations
+scratch-gui/locale
+
+# Other generated source
+scratch-gui/src/generated
+
+# Downloaded during "npm install"
+scratch-gui/static/microbit
+
+# for act
+scratch-gui/.secrets
+
+# Mac OS
+scratch-vm/.DS_Store
+
+# NPM
+scratch-vm/node_modules
+scratch-vm/npm-*
+
+# Testing
+scratch-vm/.nyc_output
+scratch-vm/coverage
+
+# Editor
+scratch-vm/.idea
+scratch-vm/.vscode
+
+# Build
+scratch-vm/dist
+scratch-vm/playground
+scratch-vm/benchmark
+
+# Localization
+scratch-vm/translations
