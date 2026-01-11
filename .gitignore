@@ -11,7 +11,6 @@ scratch-gui/.nyc_output
 sctrach-gui/coverage
 
 # Build
-scratch-gui/build
 scratch-gui/dist
 scratch-gui/.opt-in
 
